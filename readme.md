@@ -22,3 +22,5 @@ Introducing Garage: the ultimate car management app. Easily track and catalog yo
 ERD|
 
 ## ERD (ENTITY RELATIONSHIP DIAGRAM)
+![ERD](https://i.imgur.com/XGqKkaF.png)
+- [Free ERD Diagram Tool](https://dbdiagram.io/home)
