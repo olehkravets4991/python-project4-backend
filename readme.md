@@ -18,7 +18,7 @@ Introducing Garage: the ultimate car management app. Easily track and catalog yo
 | /garage/:id |	DELETE | delete a car entry from database|
 | /garage/:id | PUT | receive info & update car entry in database|
 | /garage |	POST | receive info from new form & create new car entry in database|
-| /garage/:id |	GET | render page with the shift entry
+| /garage/:id |	GET | render page with the car entry
 ERD|
 
 ## ERD (ENTITY RELATIONSHIP DIAGRAM)
